@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a-nasseur
-- 👀 I’m interested in web developement and scripting with python
+- 👀 I’m interested in web and mobile developement and scripting with python
 - 🌱 I’m currently learning mern stack and building spyders
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me a.nasseur.dev@gmail.com
